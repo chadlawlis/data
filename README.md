@@ -1,2 +1,3 @@
 json-testing
 ============
+Testing GeoJSON files...

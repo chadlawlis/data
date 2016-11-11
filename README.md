@@ -1,3 +1,3 @@
-json-testing
-============
-Testing GeoJSON files...
+# data
+
+A place to host data.
